@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Victoria</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- Soy estudiante de **Desarrollo de Software**
+- Actualmente me encuentro estudiando una Tecnicatura en **Desarrollo de Software**
 
 - 📫 Escríbeme a **victorialisoni16@gmail.com**
 
