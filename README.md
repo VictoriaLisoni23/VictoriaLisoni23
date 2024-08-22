@@ -27,3 +27,8 @@ Estoy actualmente aprendiendo más sobre PHP y Mysql, tambien trabajando en R3ci
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o deseas colaborar en algún proyecto, no dudes en ponerte en contacto.
 
 
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
