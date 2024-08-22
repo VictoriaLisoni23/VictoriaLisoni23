@@ -29,5 +29,5 @@ Estoy actualmente aprendiendo más sobre PHP y Mysql, tambien trabajando en R3ci
 
 ## 🐍 La serpiente que se come mi gráfico de contribuciones
 <p align = "center" prefers-color-scheme: dark>
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
 </p>
