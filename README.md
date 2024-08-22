@@ -1,15 +1,29 @@
-<h1 align="center">Hola 👋, soy Victoria</h1>
-<h3 align="center">Frontend Developer</h3>
+# 👋 Hola, soy Victoria!
 
-- Actualmente me encuentro estudiando una Tecnicatura en **Desarrollo de Software**
+Soy una desarrolladora Front-End con experiencia en el diseño y desarrollo Web. Me encanta trabajar en proyectos desafiantes y aprender nuevas tecnologías.
 
-- 📫 Escríbeme a **victorialisoni16@gmail.com**
+## 🔧 Habilidades
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/victoria lisoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victoria lisoni" height="30" width="40" /></a>
-<a href="https://discord.gg/victoria_43880" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="victoria_43880" height="30" width="40" /></a>
-</p>
+- **Lenguajes**: JavaScript, PHP, Python, C#.
+- **Herramientas**: Visual Studio Code, Git, Bootstrap, Figma.
+- **Bases de Datos**: SQL server, MySQL.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 🌟 Proyectos Destacados
+
+- **Ruleta(https://github.com/VictoriaLisoni23/Ruleta.git)**: Proyecto de una ruleta usando HTML, CSS y JavaScript.
+- **Calculadora(https://github.com/VictoriaLisoni23/Calculadora.git)**: Calculadora aplicando principalmente conocimiento de JavaScript.
+- **R3cicla(https://app.netlify.com/sites/r3cicla/overview)**: Proyecto en proceso...
+
+## 📫 Cómo contactarme
+
+- **Correo Electrónico**: victorialisoni16@gmail.com
+- **LinkedIn**: linkedin.com/in/victoria-lisoni
+
+## 🌱 Actualmente Aprendiendo
+
+Estoy actualmente aprendiendo más sobre PHP y Mysql, tambien trabajando en R3cicla, mi proyecto personal a cerca del reciclaje.
+
+
+¡Gracias por visitar mi perfil! Si tienes alguna pregunta o deseas colaborar en algún proyecto, no dudes en ponerte en contacto.
+
+
