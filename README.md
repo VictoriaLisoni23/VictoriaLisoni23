@@ -15,18 +15,21 @@ Soy una desarrolladora Front-End con experiencia en el diseño y desarrollo Web.
 - **Calculadora(https://github.com/VictoriaLisoni23/Calculadora.git)**: Calculadora aplicando principalmente conocimiento de JavaScript.
 - **R3cicla(https://app.netlify.com/sites/r3cicla/overview)**: Proyecto en proceso...
 
-## 📫 Cómo contactarme
-
-- **Correo Electrónico**: victorialisoni16@gmail.com
-- **LinkedIn**: linkedin.com/in/victoria-lisoni
 
 ## 🌱 Actualmente Aprendiendo
 
 Estoy actualmente aprendiendo más sobre PHP y Mysql, tambien trabajando en R3cicla, mi proyecto personal a cerca del reciclaje.
 
+## 📫 Cómo contactarme
+
+- **Correo Electrónico**: victorialisoni16@gmail.com
+- **LinkedIn**: linkedin.com/in/victoria-lisoni
+
+  <p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Music%20is%20like%20creating%20an%20emotional%20painting.%20The%20sounds%20are%20the%20colors.&theme=dark&bg_color=011627&author_color=ffeb95">
+</p>
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o deseas colaborar en algún proyecto, no dudes en ponerte en contacto.
-
 
 ## 🐍 La serpiente que se come mi gráfico de contribuciones
 <p align = "center" prefers-color-scheme: dark>
