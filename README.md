@@ -1,6 +1,8 @@
 # 👋 Hola, soy Victoria!
 
-Soy una desarrolladora Front-End con experiencia en el diseño y desarrollo Web. Me encanta trabajar en proyectos desafiantes y aprender nuevas tecnologías.
+<p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com?font=fira+code&size=23&pause=1000&color=B3A0F7&width=435&lines=Desarrolladora+Front-End+;Dise%C3%B1adora+de+Interfaces)"(https://git.io/typing-svg)></a>
+</p>
 
 ## 🔧 Habilidades
 
@@ -24,10 +26,6 @@ Estoy actualmente aprendiendo más sobre PHP y Mysql, tambien trabajando en R3ci
 
 - **Correo Electrónico**: victorialisoni16@gmail.com
 - **LinkedIn**: linkedin.com/in/victoria-lisoni
-
-  <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Music%20is%20like%20creating%20an%20emotional%20painting.%20The%20sounds%20are%20the%20colors.&theme=dark&bg_color=011627&author_color=ffeb95">
-</p>
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o deseas colaborar en algún proyecto, no dudes en ponerte en contacto.
 
