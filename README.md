@@ -1,7 +1,7 @@
 <h1 align="center">𝐇𝐨𝐥𝐚, 𝐬𝐨𝐲 𝐕𝐢𝐜𝐭𝐨𝐫𝐢𝐚!</h1>
 
 <p align="center">
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=fira+code&size=23&pause=1000&color=B3A0F7&width=435&lines=Desarrolladora+Front-End+;Dise%C3%B1adora+de+Interfaces" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=fira+code&size=23&pause=1000&color=B3A0F7&width=435&lines=Desarrolladora+Front-End+;Dise%C3%B1adora+de+Interfaces" alt="Typing SVG" /></a>
 </p>
 
 ## 🔧 Habilidades
