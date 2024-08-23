@@ -26,9 +26,9 @@ Estoy actualmente aprendiendo sobre PHP y Mysql, trabajando en R3cicla, mi proye
 - **Correo Electrónico**: victorialisoni16@gmail.com
 - **LinkedIn**: linkedin.com/in/victoria-lisoni
 
-¡Gracias por visitar mi perfil! Si tienes alguna pregunta o deseas colaborar en algún proyecto, no dudes en ponerte en contacto.
-
 ## 🐍 La serpiente que se come mi gráfico de contribuciones
 <p align = "center" prefers-color-scheme: dark>
 	<img src = "https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
 </p>
+
+¡Gracias por visitar mi perfil! Si tienes alguna pregunta o deseas colaborar en algún proyecto, no dudes en ponerte en contacto.
