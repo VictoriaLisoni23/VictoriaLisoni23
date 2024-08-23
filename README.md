@@ -1,4 +1,4 @@
-<p align="center"># Hola, soy Victoria! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></p>
+<h4 align="center">Hola, soy Victoria! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h4>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=fira+code&size=23&pause=1000&color=B3A0F7&width=435&lines=Desarrolladora+Front-End+;Dise%C3%B1adora+de+Interfaces" alt="Typing SVG" /></a>
