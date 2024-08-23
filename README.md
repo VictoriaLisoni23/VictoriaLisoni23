@@ -19,7 +19,7 @@
 
 ## 🌱 Actualmente Aprendiendo
 
-Estoy actualmente aprendiendo más sobre PHP y Mysql, tambien trabajando en R3cicla, mi proyecto personal a cerca del reciclaje.
+Estoy actualmente aprendiendo más sobre PHP y Mysql, trabajando en R3cicla, mi proyecto personal a cerca del reciclaje.
 
 ## 📫 Cómo contactarme
 
